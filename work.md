@@ -203,3 +203,8 @@ git push origin --delete <удаляемая_ветка>
 ```
 git remote add <имя_репозитория> <URL_репозитория>
 ```
+
+
+
+
+
